@@ -6,14 +6,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "SADU-X",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100051192304966",
+    "100051192304966"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100051192304966",
     ""
   ],
   "OWNER": ["100000959749712"], 
